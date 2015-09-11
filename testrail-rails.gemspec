@@ -6,11 +6,10 @@ require 'testrail/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "testrail-rails"
   spec.version       = Testrail::Rails::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Josh Lockhart"]
+  spec.email         = ["jlockhart@ncsasports.org"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Testrail API client for rspec integration tests}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
