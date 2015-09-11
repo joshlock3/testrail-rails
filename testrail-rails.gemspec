@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jlockhart@ncsasports.org"]
 
   spec.summary       = %q{Testrail API client for rspec integration tests}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/joshlock3/testrail-rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
