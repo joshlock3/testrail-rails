@@ -1,4 +1,4 @@
-require 'test_rail/release'
+require 'testrail/release'
 
 module TestRail
   class TestRun
